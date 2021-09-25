@@ -4,3 +4,19 @@ body{
     color:aliceblue;
     font-size:30px;
 }
+
+.containerHead{
+    border: 10px solid aliceblue;
+    margin:0 30px;
+    padding: 10px; 
+}
+
+.containerHead h1{
+    margin-right:10px;
+    text-align:right;
+}
+
+.containerHead p{
+    text-align:justify;
+    margin:5px;
+}
